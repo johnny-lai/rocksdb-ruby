@@ -1,5 +1,5 @@
-![Build Status](https://github.com/johnny-lai/rocksdb-ruby/actions/workflows/ruby.yml/badge.svg)
-[![Gem Version](https://badge.fury.io/rb/rocksdb-ruby.svg)](https://badge.fury.io/rb/rocksdb-ruby)
+[Build Status](https://github.com/johnny-lai/rocksdb-ruby/actions/workflows/ruby.yml/badge.svg)
+[Gem Version](https://badge.fury.io/rb/rocksdb-ruby.svg)
 
 # RocksDB
 
